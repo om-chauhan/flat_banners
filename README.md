@@ -5,19 +5,13 @@
 A Flutter package for Offers, Promo and Invites banners. Android support
 Android and Web.
 
-## Demo
-
-<img src="banners-package-demo.gif" height="500" />
-
-## Screenshot
-
-|            horizontal vertical view banners             |            vertical view banners             |
-| :-----------------------------------------------------: | :------------------------------------------: |
-| <img src="horizontal-vertical-view.jpg" height="400" /> | <img src="vertical-view.jpg" height="400" /> |
-
 ## Usage
 
 To use this plugin, add `flat_banners` as a [dependency in your pubspec.yaml file](https://flutter.dev/platform-plugins/).
+
+## Demo
+
+<img src="banners-package-demo.gif" height="500" />
 
 ### Example
 
@@ -69,3 +63,9 @@ class Home extends StatelessWidget {
 ```
 
 See the example app for more complex examples.
+
+## Screenshot
+
+|            horizontal vertical view banners             |            vertical view banners             |
+| :-----------------------------------------------------: | :------------------------------------------: |
+| <img src="horizontal-vertical-view.jpg" height="400" /> | <img src="vertical-view.jpg" height="400" /> |
