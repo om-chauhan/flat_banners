@@ -7,13 +7,13 @@ Android and Web.
 
 ## Demo
 
-<img src="assets/banners-package-demo.gif" height="500" />
+<img src="banners-package-demo.gif" height="500" />
 
 ## Screenshot
 
-|                horizontal vertical view banners                |                vertical view banners                |
-| :------------------------------------------------------------: | :-------------------------------------------------: |
-| <img src="assets/horizontal-vertical-view.jpg" height="400" /> | <img src="assets/vertical-view.jpg" height="400" /> |
+|            horizontal vertical view banners             |            vertical view banners             |
+| :-----------------------------------------------------: | :------------------------------------------: |
+| <img src="horizontal-vertical-view.jpg" height="400" /> | <img src="vertical-view.jpg" height="400" /> |
 
 ## Usage
 
