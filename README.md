@@ -11,7 +11,7 @@ To use this plugin, add `flat_banners` as a [dependency in your pubspec.yaml fil
 
 ## Demo
 
-<img src="https://github.com/om-chauhan/flat_banners/blob/master/banners-package-demo.gif" height="500" />
+<img src="https://github.com/om-chauhan/flat_banners/raw/master/banners-package-demo.gif" height="500" />
 
 ### Example
 
@@ -66,6 +66,6 @@ See the example app for more complex examples.
 
 ## Screenshot
 
-|                                        horizontal vertical view banners                                        |                                        vertical view banners                                        |
-| :------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: |
-| <img src="https://github.com/om-chauhan/flat_banners/blob/master/horizontal-vertical-view.jpg" height="400" /> | <img src="https://github.com/om-chauhan/flat_banners/blob/master/vertical-view.jpg" height="400" /> |
+|                                       horizontal vertical view banners                                        |                                       vertical view banners                                        |
+| :-----------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
+| <img src="https://github.com/om-chauhan/flat_banners/raw/master/horizontal-vertical-view.jpg" height="400" /> | <img src="https://github.com/om-chauhan/flat_banners/raw/master/vertical-view.jpg" height="400" /> |
