@@ -1,6 +1,6 @@
 # flat_banners
 
-[![pub package](https://img.shields.io/pub/v/url_launcher.svg)](https://pub.dev/packages/flat_banners)
+[![pub package](https://img.shields.io/pub/v/flat_banners.svg)](https://pub.dev/packages/flat_banners)
 
 A Flutter package for Offers, Promo and Invites banners. Android support
 Android and Web.
