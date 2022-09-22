@@ -1,6 +1,6 @@
 name: flat_banners
 description: A Flutter package for Offers, Promo and Invites banners. Android support Android and Web.
-version: 0.0.4
+version: 0.0.6
 homepage: https://github.com/om-chauhan/flat_banners
 
 environment:

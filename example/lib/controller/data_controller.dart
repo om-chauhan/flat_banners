@@ -48,7 +48,7 @@ class DataController {
       ],
     ),
     DataModel(
-      title: 'Candy Bust is now avilable',
+      title: 'Candy Bust is now available',
       subTitle: 'Are you a candy crush player ?',
       image: 'assets/icons/stars.png',
       actionText: 'Play Now',

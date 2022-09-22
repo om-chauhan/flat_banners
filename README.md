@@ -66,6 +66,6 @@ See the example app for more complex examples.
 
 ## Screenshot
 
-|                                       horizontal vertical view banners                                        |                                       vertical view banners                                        |
+|                                       Horizontal View|                                       Vertical View                               |
 | :-----------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
 | <img src="https://github.com/om-chauhan/flat_banners/raw/master/horizontal-vertical-view.jpg" height="400" /> | <img src="https://github.com/om-chauhan/flat_banners/raw/master/vertical-view.jpg" height="400" /> |
