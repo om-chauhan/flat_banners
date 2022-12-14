@@ -69,3 +69,7 @@ See the example app for more complex examples.
 |                                       Horizontal View|                                       Vertical View                               |
 | :-----------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
 | <img src="https://github.com/om-chauhan/flat_banners/raw/master/horizontal-vertical-view.jpg" height="400" /> | <img src="https://github.com/om-chauhan/flat_banners/raw/master/vertical-view.jpg" height="400" /> |
+
+## Licence
+
+[MIT Licence](https://raw.githubusercontent.com/om-chauhan/flat_banners/master/LICENCE)
